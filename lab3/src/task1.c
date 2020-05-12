@@ -17,7 +17,7 @@ int main() {
     struct sigaction action;
     action.sa_handler = NULL;
     action.sa_sigaction = signal_handler;
-    action.sa_mask = 0;
+    //action.sa_mask = 0;
     action.sa_flags = SA_RESETHAND & SA_SIGINFO;
     struct sigaction oldHandler;
     sigaction(SIGHUP, &action, &oldHandler);
