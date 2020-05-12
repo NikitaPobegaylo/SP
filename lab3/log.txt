@@ -1,0 +1,51 @@
+start with PID 92236
+start with PID 94040
+idle
+idle
+idle
+idle
+start with PID 94180
+idle
+start with PID 94258
+idle
+idle
+idle
+idle
+idle
+idle
+idle
+idle
+idle
+idle
+idle
+start with PID 94671
+idle
+idle
+start with PID 94844
+idle
+idle
+idle
+idle
+idle
+idle
+idle
+idle
+signal number 1
+signal code 0
+errno association 0
+sending process 92246
+sender's ruid 501
+exit value 1
+band event for SIGPOLL 0
+idle
+idle
+idle
+idle
+idle
+idle
+start with PID 96222
+start with PID 96767
+start with PID 99254
+start with PID 2389
+start with PID 3654
+start with PID 3877
